@@ -19,7 +19,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-6-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -30,7 +30,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-5-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -41,7 +41,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-4-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -52,7 +52,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-3-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -63,7 +63,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-2-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -74,7 +74,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-6-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -85,7 +85,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-5-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>
@@ -96,7 +96,7 @@
 
                             <div class="col-sm-6">
                                 <img src="../../assets/images/crypto-news-1-600x450.jpg" alt="">
-                                <h4 class="pt-20"><a href="#"><b>2017 Market Performance: Crypto vs.Stock</b></a></h4>
+                                <h4 class="pt-20"><router-link to="/Blog"><b>2017 Market Performance: <br/>Crypto vs.Stock</b></router-link></h4>
                                 <ul class="list-li-mr-20 pt-10 mb-30">
                                     <li class="color-lite-black">by <a href="#" class="color-black"><b>Olivia Capzallo,</b></a>
                                         Jan 25, 2018</li>

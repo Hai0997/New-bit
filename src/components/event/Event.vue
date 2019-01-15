@@ -1,22 +1,5 @@
 <template>
     <div class="event">
-        <section class="ptb-0">
-            <div class="mb-30 brdr-ash-1 opacty-5"></div>
-            <div class="container">
-                <a class="mt-10" href="index.html"><i class="mr-5 ion-ios-home"></i>Home<i class="mlr-10 ion-chevron-right"></i></a>
-                <a class="mt-10 color-ash" href="04_FAQs.html">FAQs</a>
-            </div><!-- container -->
-        </section>
-        <section class="pb-20">
-            <div class="container">
-                <h2 class="mb-50"><b>FAQs</b></h2>
-                <a class="btn-fill-primary btn-b-md plr-30 mb-10 mr-5" href="#"><b>GENERAL</b></a>
-                <a class="btn-fill-grey btn-b-md plr-25 mb-10 mr-5" href="#"><b>BCC LENDING</b></a>
-                <a class="btn-fill-grey btn-b-md plr-25 mb-10 mr-5" href="#"><b>BCC Exchange</b></a>
-                <a class="btn-fill-grey btn-b-md plr-25 mb-10 " href="#"><b>BCC Staking</b></a>
-            </div><!-- container -->
-        </section>
-
         <section class="pt-0">
             <div class="container">
 

@@ -1,5 +1,6 @@
 <template>
     <div class="blog">
+        <bl1></bl1>
         <Blog></Blog>
 
     </div>
@@ -7,9 +8,10 @@
 
 <script>
     import Blog from "../components/guide/Blog";
+    import Bl1 from "../components/guide/Bl1";
     export default {
-        name: "03-blog",
-        components: {Blog}
+        name: "03-Blog",
+        components: {Bl1, Blog}
     }
 </script>
 

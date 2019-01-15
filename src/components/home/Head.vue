@@ -9,8 +9,6 @@
                             <li><a class="pl-0 pl-sm-10" href="#">About</a></li>
                             <li><a href="#">Advertise</a></li>
                             <li><a href="#">Submit Press Release</a></li>
-                            <li><router-link to="#">Contact-us</router-link></li>
-
                         </ul>
                         <ul class="float-right float-sm-none list-a-plr-10 list-a-plr-sm-5 list-a-ptb-15 list-a-ptb-sm-5">
                             <li><a class="pl-0 pl-sm-10" href="#"><i class="ion-social-facebook"></i></a></li>
@@ -44,16 +42,10 @@
 
                 <ul class="main-menu" id="main-menu">
                     <li><router-link to="/News-bit">NEW</router-link></li>
-                    <li class="drop-down"><router-link to="/Blog">GUIDE-BLOG<i class="ion-arrow-down-b"></i></router-link>
-                        <ul class="drop-down-menu drop-down-inner">
-                            <li><a href="#">PAGE 1</a></li>
-                            <li><a href="#">PAGE 2</a></li>
-                        </ul>
-                    </li>
-                    <li><router-link to="/04-Events">EVENTS</router-link></li>
-                    <li><router-link to="/05-Explained">EXPLAINED</router-link></li>
-                    <li><router-link to="/Contact">ICON CLAENDER
-                    </router-link></li>
+
+                    <li><router-link to="/04-Events">FAQs</router-link></li>
+
+                    <li><router-link to="/Contact">CONTACT-US</router-link></li>
                 </ul>
                 <div class="clearfix"></div>
             </div><!-- container -->
